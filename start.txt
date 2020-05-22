@@ -9,4 +9,4 @@ che khabar?
 
 salamati
 
-copyright 2020
+@copyright 2020
