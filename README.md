@@ -1,2 +1,8 @@
-# git-test
-test git
+#Start Work With Git
+
+##Introduction
+
+##Purpose
+
+##How to contribute
+
