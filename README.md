@@ -3,6 +3,7 @@ test for diff
 ##Introduction
 
 test 2 for diff
+make Change in master branch for conflict
 
 ##Purpose
 test 3 for diff
