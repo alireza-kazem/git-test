@@ -18,7 +18,7 @@ test 4 for diff
 intori
 add some changes in bigtrouble branch
 
-copyright 2020
+copyright 2020 test for git rebase with remote
 
 
 add changes in master branch. ye seri dastan ham az tooye branche myfeature ezafe kardim.
